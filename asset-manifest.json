@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bcwaters.github.io/gigglephd/static/css/main.1b2a3fb3.css",
-    "main.js": "/bcwaters.github.io/gigglephd/static/js/main.4071108a.js",
-    "static/js/453.f2ae8cb4.chunk.js": "/bcwaters.github.io/gigglephd/static/js/453.f2ae8cb4.chunk.js",
-    "static/media/mime_class2024.jpg": "/bcwaters.github.io/gigglephd/static/media/mime_class2024.79d2d73d1be1937796e6.jpg",
-    "index.html": "/bcwaters.github.io/gigglephd/index.html",
-    "main.1b2a3fb3.css.map": "/bcwaters.github.io/gigglephd/static/css/main.1b2a3fb3.css.map",
-    "main.4071108a.js.map": "/bcwaters.github.io/gigglephd/static/js/main.4071108a.js.map",
-    "453.f2ae8cb4.chunk.js.map": "/bcwaters.github.io/gigglephd/static/js/453.f2ae8cb4.chunk.js.map"
+    "main.css": "/static/css/main.1b2a3fb3.css",
+    "main.js": "/static/js/main.49b6ee8b.js",
+    "static/js/453.f2ae8cb4.chunk.js": "/static/js/453.f2ae8cb4.chunk.js",
+    "static/media/mime_class2024.jpg": "/static/media/mime_class2024.79d2d73d1be1937796e6.jpg",
+    "index.html": "/index.html",
+    "main.1b2a3fb3.css.map": "/static/css/main.1b2a3fb3.css.map",
+    "main.49b6ee8b.js.map": "/static/js/main.49b6ee8b.js.map",
+    "453.f2ae8cb4.chunk.js.map": "/static/js/453.f2ae8cb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b2a3fb3.css",
-    "static/js/main.4071108a.js"
+    "static/js/main.49b6ee8b.js"
   ]
 }

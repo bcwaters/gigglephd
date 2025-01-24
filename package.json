@@ -1,7 +1,7 @@
 {
   "name": "gigglephd",
   "version": "0.1.0",
-  "homepage":"bcwaters.github.io/gigglephd",
+  
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

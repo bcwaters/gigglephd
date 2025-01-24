@@ -1,4 +1,4 @@
-import logo from './mime_class2024.jpg';
+import logo from './atlmemecoin.jpg';
 import './App.css';
 
 function App() {
